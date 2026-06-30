@@ -1,0 +1,11 @@
+# Ignore data files
+*.csv
+*.xlsx
+*.zip
+data/
+
+# Ignore python and jupyter artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
